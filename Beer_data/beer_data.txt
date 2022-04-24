@@ -1,0 +1,5 @@
+beer_name;beer_type;malt_text;hop_text;alcohol;bitterness;malt_number;hop_number;grade
+Karhu 3;Lager;Basic Malt,Basic Starch;;4.6;16;2;2;5
+Sandels 4.7%;Lager;Basic Malt,Basic Starch;;4.7;14;2;2;6
+RPS HARD ROCK LAGER 7%;Lager;Pilsner,Caramel;Loral;7;27;3;2;9
+Plevna Siperia Imperial Stout;Stout;Pilsner,Wienna,Pale Ale,Caramel,Toasted Malt;Tomahawk,Simcoe,Amarillo;8.0;72;5;1;10
